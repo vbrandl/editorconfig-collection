@@ -1,3 +1,4 @@
 ; Makefile
 [Makefile]
+indent_size = 8
 indent_style = tab
